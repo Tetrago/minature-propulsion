@@ -1,0 +1,13 @@
+name = "Resourceful Lib"
+filename = "resourcefullib-forge-1.19.2-1.1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c10d70ec60a31a78094dc0bf4727b66172e86c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4301208
+project-id = 570073

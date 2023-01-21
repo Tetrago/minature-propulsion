@@ -1,13 +1,13 @@
 name = "Minature Propulsion"
 author = "tetrago"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "335fb08dbbf9609673b6e5091a6dd1fcf1ce718c20bd0df806cdfcfe1b74b470"
+hash = "411928d99e25cc5cc649ae4dcd98d7d9c287f22482739dd68dcc01b871bf0406"
 
 [versions]
-forge = "40.2.0"
-minecraft = "1.18.2"
+forge = "44.1.0"
+minecraft = "1.19.2"
