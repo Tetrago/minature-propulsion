@@ -1,13 +1,13 @@
 name = "Botarium"
-filename = "botarium-forge-1.19.2-1.8.2.jar"
+filename = "botarium-forge-1.19.3-2.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "579df823359b79fabd2c92de53c4bce6e4fbcf01"
+hash = "442948efeae5ddbef5f571f6c1c9fc73220ee7ef"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4306551
+file-id = 4331935
 project-id = 704113

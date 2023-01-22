@@ -1,13 +1,13 @@
 name = "Resourceful Config"
-filename = "resourcefulconfig-forge-1.19.2-1.0.18.jar"
+filename = "resourcefulconfig-forge-1.19.3-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "36cf8fa1a0bd0fa07614ff082fcfad1a0723b5b5"
+hash = "9070f6aea7227bb3082a117459e3fb5f4343a6ba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4331470
+file-id = 4331474
 project-id = 714059
