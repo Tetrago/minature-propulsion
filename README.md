@@ -1,12 +1,12 @@
 # Minature Propulsion
 
-A 1.19 rocketry modpack with minor supporting mods, and no overarching goals, objectives, or story.
+A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, objectives, or story.
 
 # Mod List
 
 ## Major
 
-- Ad Astra
+- Beyond Earth
 - Ender Storage
 - Flux Networks
 - Industrial Foregoing
@@ -20,7 +20,7 @@ A 1.19 rocketry modpack with minor supporting mods, and no overarching goals, ob
 
 ## World
 
-- Biomes O' Plenty
+- Oh the Biome's You'll Go
 - Terralith
 - YUNG's Better Dungeons
 - YUNG's Better Mineshafts

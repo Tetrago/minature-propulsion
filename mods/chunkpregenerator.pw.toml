@@ -1,13 +1,13 @@
 name = "Chunk-Pregenerator"
-filename = "Chunk Pregenerator-1.19.3-4.2.0.jar"
+filename = "Chunk Pregenerator-1.18-4.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fceee5f7636242c5b4d41d4bc4815b89b87a575a"
+hash = "ada7ef1432449c38b1131f676e66ae406ba54f52"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4194438
+file-id = 4087388
 project-id = 267193

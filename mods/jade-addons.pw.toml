@@ -1,13 +1,13 @@
 name = "Jade Addons (Forge)"
-filename = "JadeAddons-1.19.2-forge-3.3.0.jar"
+filename = "JadeAddons-1.18.2-forge-2.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "30f51177d4c46415219e011a6822f1ce43a68d66"
+hash = "88bae5abc9744d91806b888e8a52ceb84cfcd58f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4329113
+file-id = 4085908
 project-id = 583345
