@@ -1,6 +1,6 @@
 # Minature Propulsion
 
-A 1.19.3 rocketry modpack with minor supporting mods, and no overarching goals, objectives, or story.
+A 1.19 rocketry modpack with minor supporting mods, and no overarching goals, objectives, or story.
 
 # Mod List
 

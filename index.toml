@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
-hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
+hash = "fe9aad091a0211cb4d99bb6481db21e8ed25d5190087af5ca8085fc0315ad902"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleancut.pw.toml"
-hash = "bfa0601fac066afc2d31c84cc7cad269c018191785f971411b05e714dc72b8bb"
+hash = "3cae24858353bfacda9ea35df900ea183e0493eb5a67eaf560c03d5ec423daee"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
-hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+hash = "747385d5e9568ce70043ed2c565a3e6c08f5e65e0f91f2f57296a64b2f7e2b45"
 metafile = true
 
 [[files]]
