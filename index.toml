@@ -260,6 +260,11 @@ hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
 metafile = true
 
 [[files]]
+file = "mods/jaopca.pw.toml"
+hash = "3cd508036341124907ce6ec9b82f2317ba7b5f8b53dd773a5c2f63183d286abf"
+metafile = true
+
+[[files]]
 file = "mods/jei-integration.pw.toml"
 hash = "00ceaf843e4b50f1b0c9a9410008f485785a99b9b5e30fd5471a5e630150b4fa"
 metafile = true
@@ -400,6 +405,11 @@ hash = "b8e36189e8de79f382ee64c19413492e517fd4ca1f4fb9dd8efc09a05b2d16c1"
 metafile = true
 
 [[files]]
+file = "mods/scarecrows-territory.pw.toml"
+hash = "26d612393f18053580134af09c17fabcac030c0f75495b37e0ffe5bcb1a24722"
+metafile = true
+
+[[files]]
 file = "mods/shulker-box-slot.pw.toml"
 hash = "e7385c9b44274ee0068dd885ed66378ba4511e7d4aaf3d3317b42b04352d9522"
 metafile = true
@@ -407,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/space-bosstools-giselle-addon.pw.toml"
+hash = "513c35373d6a1704ebff7a357893b0cee5bb8f4f29733020001a900e092fc28f"
 metafile = true
 
 [[files]]
