@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "506234f041442ce8366fd74008224d384ba75544aa4c64cf81cd0649c683c4e5"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "2aed81b374826c1396c7ac11c30355c96236988567a14de747a0d9a4fc497218"
 metafile = true
