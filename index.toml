@@ -80,11 +80,6 @@ hash = "ccc9e68c208b574a9f41f5ec4971eec57784c4198bb591d4d180045293ee9d5f"
 metafile = true
 
 [[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "2f94c9979cd7bbf89390a611e69ab4cc92cd27a151443abb5ad4edbe236b8c80"
-metafile = true
-
-[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "bfa0601fac066afc2d31c84cc7cad269c018191785f971411b05e714dc72b8bb"
 metafile = true
@@ -250,8 +245,8 @@ hash = "027c8c104eb2eaef7281aec4aad31a360e8a7413a6130ba333252c4b11c9ab52"
 metafile = true
 
 [[files]]
-file = "mods/hidden-recipe-book.pw.toml"
-hash = "d9485a964b4d6e4065301e070b626355a607cce398a9c4a4cd8eaa16be41b6b8"
+file = "mods/incendium.pw.toml"
+hash = "9776e903bc683d6674cdff7c40ad694c0de465efbeab98395f43058d656be27e"
 metafile = true
 
 [[files]]
@@ -347,6 +342,16 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "749b5c01f7d44a3479c096cad7f917b2e2ded86e4cd65208c0af434c1b478534"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "36d11120f7b29d438f0c786c54b547b1427d06d9724ddaa7010ff9b2717914df"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "4cb9d3b61c8ca7f5acd6f1d25e1ce55c353c9eec707f8931b24ec5ca1ab1745a"
 metafile = true
 
 [[files]]
@@ -447,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
 metafile = true
 
 [[files]]
