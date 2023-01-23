@@ -1,4 +1,4 @@
-# Minature Propulsion
+# Miniature Propulsion
 
 A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, objectives, or story.
 
