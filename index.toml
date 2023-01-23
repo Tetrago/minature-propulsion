@@ -520,6 +520,11 @@ hash = "7eb1fc6126feb1c9d748dfa757d7fffb0e73a58ed6897f30cfed5fb1fb2dff8a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/unity-extras.pw.toml"
+hash = "ef9e587bdc61639fcb872859e27a15b6c7aa16c890a9f5ce5e52ac1f2c319a2a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unity-modded.pw.toml"
 hash = "9b8f25430f08eae50cb568c73e3852c584cae409d5104ed79f89bd3e0a7de71e"
 metafile = true
