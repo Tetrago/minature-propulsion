@@ -105,6 +105,11 @@ hash = "acdeb4420ba53b3be63bc6ac27c46d3b918501ffc7c8dd26df884acd86f4165e"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "9dd6d89ac2bd5f5bb0ad6f108693e1fa57eb959fd5d1fafd08650ea9c0aeb856"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "04eeb1be0aad7b7eb11e5dc6f64e64b6b47acf3c5879297f63349b8f4812ba51"
 metafile = true
@@ -127,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "e4b89bc3aa13faf8c7abbc3f82ebaba7c954370a38a15293781235dd2ebf9baf"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
 
 [[files]]
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "027c8c104eb2eaef7281aec4aad31a360e8a7413a6130ba333252c4b11c9ab52"
+metafile = true
+
+[[files]]
+file = "mods/hidden-recipe-book.pw.toml"
+hash = "d9485a964b4d6e4065301e070b626355a607cce398a9c4a4cd8eaa16be41b6b8"
 metafile = true
 
 [[files]]
@@ -497,4 +512,19 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "7eb1fc6126feb1c9d748dfa757d7fffb0e73a58ed6897f30cfed5fb1fb2dff8a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-modded.pw.toml"
+hash = "9b8f25430f08eae50cb568c73e3852c584cae409d5104ed79f89bd3e0a7de71e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "70d67ad022a2a1a56617bf6e51c8ad6a5573f87d3ff521b776783a3247ced7a8"
 metafile = true
