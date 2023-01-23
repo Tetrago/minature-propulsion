@@ -134,6 +134,16 @@ hash = "e4b89bc3aa13faf8c7abbc3f82ebaba7c954370a38a15293781235dd2ebf9baf"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "c1ab5c64ac36cdc7b2ccea6f017580ef7a2bae38093a713f9c66ffd3820a1d74"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "9dbcda8ffbaedfdf3dcecf7af271a19e1fa886c27516bec6fda4606a36518a42"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
@@ -161,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
+metafile = true
+
+[[files]]
+file = "mods/ender-crop.pw.toml"
+hash = "be7c836495e4bcbc30d44c36eba6130c0e0d78af4d1808d1537c99477bbdfc89"
 metafile = true
 
 [[files]]
@@ -224,6 +239,11 @@ hash = "9662e5cd152f99293561b00a306bb61b972021e9e6f2ed5c319a8ffb2f301c27"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "37cadf5e99b548c91089584eb7d082b24c7eccd1fb1995c45c412bde78896ec9"
 metafile = true
@@ -256,11 +276,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "9776e903bc683d6674cdff7c40ad694c0de465efbeab98395f43058d656be27e"
-metafile = true
-
-[[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "ad8a7b4bca384a88e4e4b069b404900efd70c2c424ecf486910a73d98b27c48f"
 metafile = true
 
 [[files]]
@@ -381,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "345939a40a69469bfb53e1f6650959757f26583eede75de734b2ed5bdb64f69b"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "4870bf0afab0c0442605237b5f2cd33b0f6aba88eed460989b5dec50f7c90cef"
 metafile = true
 
 [[files]]
@@ -551,11 +571,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4aeb9670f24f4416273ccdbad1aa2cdae96630f5eedea8f8c0b32623d1f4a028"
-metafile = true
-
-[[files]]
-file = "mods/titanium.pw.toml"
-hash = "61f884e89092a648306513b93b33191641775aad6ac188c90000acea7c480b5d"
 metafile = true
 
 [[files]]

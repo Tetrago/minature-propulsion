@@ -8,9 +8,10 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
 - [Beyond Earth: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/space-bosstools-giselle-addon)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
-- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
@@ -60,6 +61,7 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm)
+- [Ender Crop](https://www.curseforge.com/minecraft/mc-mods/ender-crop)
 - [Gauges and Switched](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
@@ -71,6 +73,7 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
+- [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
 - [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
 - [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
@@ -126,6 +129,7 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
 - [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
 - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
@@ -136,7 +140,6 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
-- [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 
 # Included Resource Packs
