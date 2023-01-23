@@ -154,6 +154,11 @@ hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "42b7b7c6490705f967a08c5493470e9c5e63a1edbbaaa52b97b69b1059b53375"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
 metafile = true
@@ -304,6 +309,51 @@ hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "e397bb0de80ce1a5991859332ad23f6eaeebebea401c22552e3ec4416b2eaf9f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "8bfad83ed5c914a968a5813b210b8dc51c6bc781e3acb748b6fd3c29ada6fd45"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "d5df32b81d9ddd8863e66c8f02952355428f793cf6b0d5386b7ef1038f9ae333"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "10994e17859a987a0deac81bd611e84ad3e53a87f23892dabb92b365ec79fbea"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "868293df6ca42ae362247416b443eaa134046853bafc4697de150365c27cf45b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "a7ea2f92beff4ce9ad0c9b48bf5ad1f9d98a6270b01251197c17f35b80972cd3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "f21c9ea6e8b4480c49e0f9397e70b9f10462002f56055ce91fc2e750b149d79c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "baa87005941e24020129354c6fc1e93f92251e7fc53383b907cd269c33fd32ff"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "6800b344bb3a658b88d78c5c205a213c6dfcc26cd98a4d4716ca929fc393c357"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
@@ -404,6 +454,11 @@ hash = "b9c705b187aab9708763c23c751664598b11bbd3598b71b9e5040bfcfe4ab394"
 metafile = true
 
 [[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "d42a26416b67d76d8f083ff31c15b592e4cc7a5719d2663a7169c9234812e439"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "65af98dbbb4f92b1088d8fee888329101c477c702c1b1e664bb90f2d49268ae5"
 metafile = true
@@ -431,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/scarecrows-territory.pw.toml"
 hash = "26d612393f18053580134af09c17fabcac030c0f75495b37e0ffe5bcb1a24722"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
 
 [[files]]
@@ -471,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "7682ee8020b690676c256df301dedc20797ed3f12d8dc42fabe488a47386a56e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "449411347b958d4d18a2ffb5af786c9c9a755c2f9aea4d343864eae2a31590e3"
 metafile = true
 
 [[files]]

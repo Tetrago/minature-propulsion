@@ -60,7 +60,18 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 - [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm)
+- [Gauges and Switched](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
+- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
 - [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
@@ -83,6 +94,7 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [Scarecrows' Territory](https://www.curseforge.com/minecraft/mc-mods/scarecrows-territory/)
 - [Shulker Box Slot](https://www.curseforge.com/minecraft/mc-mods/shulker-box-slot)
 - [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 
 ## Performance
@@ -119,12 +131,20 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
+- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+
+# Included Resource Packs
+
+- [Unity](https://www.curseforge.com/minecraft/texture-packs/unity)
+- [Unity: Dark Edition](https://www.curseforge.com/minecraft/texture-packs/unity-dark-edition)
+- [Unity: Extras](https://www.curseforge.com/minecraft/texture-packs/unity-extras)
+- [Unity: Modded](https://www.curseforge.com/minecraft/texture-packs/unity-modded)
 
 # Documentation
 

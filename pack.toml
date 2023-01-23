@@ -1,12 +1,12 @@
 name = "Miniature Propulsion"
 author = "tetrago"
-version = "0.3.1"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a9b7a0cb7f3283dfdc9aaacd4aeb320635c56b28c776bb993ae02ca928bf794c"
+hash = "24c826c2919ddbbc49482231e1e93bc2ae23a0a39627824ee98d6d5664837dfd"
 
 [versions]
 forge = "40.2.0"
