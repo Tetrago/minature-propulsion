@@ -37,3 +37,7 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - Farmer's Delight
 - Rechiseled
 - Waystones
+
+# Documentation
+
+Made with packwiz. See [https://packwiz.infra.link/](https://packwiz.infra.link/tutorials/installing/packwiz-installer/) for the full installation instructions.
