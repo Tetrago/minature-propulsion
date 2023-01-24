@@ -38,7 +38,6 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 ## World
 
 - [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)
-- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape)
 - [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)

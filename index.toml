@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE.md"
-hash = "1c6e3b3c0c104ca78363ecbd35469c08b59663823cfb338758769e0d9d1438a9"
-
-[[files]]
-file = "icon.png"
-hash = "506234f041442ce8366fd74008224d384ba75544aa4c64cf81cd0649c683c4e5"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
@@ -416,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "749b5c01f7d44a3479c096cad7f917b2e2ded86e4cd65208c0af434c1b478534"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "36d11120f7b29d438f0c786c54b547b1427d06d9724ddaa7010ff9b2717914df"
 metafile = true
 
 [[files]]
