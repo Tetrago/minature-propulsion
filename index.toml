@@ -77,11 +77,6 @@ hash = "f5297facef8c901bf3fdaf08757ab50b8638e99505255f931bf7d505931ee61c"
 metafile = true
 
 [[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "44b0e2e0ca1f254b9f43593a9bfd2802a6074200ad9a0fafa97b01e930940169"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -139,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "2a49f23b290c80ba274e622397a1241c3ef1e4c9975e4f816e2ccc892c1d114c"
 metafile = true
 
 [[files]]

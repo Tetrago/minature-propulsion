@@ -26,9 +26,9 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 ## Supporting
 
 - [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village)
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
 - [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful)
