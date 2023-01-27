@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cobblegenrandomizer-common.toml"
+hash = "ed14cb9fdab4a41955c1729a4f84a3b820db185420a03ff313d91444d2e1b67e"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "cc2f8c6b83631c0d6824612bc46e7e26dfc7ea833d0da7f5befd3b063f46a125"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "02d581e68085012db59934cd2e6ed80b55be9f06a480c0a0ba2a46bfc0fc24fd"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
@@ -18,6 +34,11 @@ metafile = true
 [[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "b9919c308b32f8bf78f546ac9deede3715cc0c24b0c9db64e459af9a32f05d0a"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "89cc0eefd627a380274c0dcfb5739fb0ef2b426e62276f7534ba7895e57d74e1"
 metafile = true
 
 [[files]]
@@ -91,6 +112,11 @@ hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
 metafile = true
 
 [[files]]
+file = "mods/cobblegenrandomizer.pw.toml"
+hash = "ada1086fc7d18ab9b50d525f36c8b2b3b726d2a83f5f9fb2693e85e8fc64395d"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "acdeb4420ba53b3be63bc6ac27c46d3b918501ffc7c8dd26df884acd86f4165e"
 metafile = true
@@ -108,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]

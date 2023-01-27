@@ -51,10 +51,12 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
 - [Clear Despawn](https://www.curseforge.com/minecraft/mc-mods/clear-despawn)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [CobbleGenRandomizer](https://www.curseforge.com/minecraft/mc-mods/cobblegenrandomizer)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
@@ -99,10 +101,11 @@ A 1.18.2 rocketry modpack with minor supporting mods, and no overarching goals, 
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 
-## Performance
+## Tweaks
 
 - [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 - [Better FPS - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 - [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
